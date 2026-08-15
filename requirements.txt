@@ -1,0 +1,16 @@
+# Broker connectivity
+ib_insync>=0.9.86
+
+# Data & analysis
+pandas>=2.2
+numpy>=1.26
+
+# Backtesting (pick one; both listed per plan.md, vectorbt for speed, backtrader for broker-sim realism)
+backtrader>=1.9.78
+vectorbt>=0.26
+
+# Alerting
+python-telegram-bot>=21.0
+
+# Env / config
+python-dotenv>=1.0
