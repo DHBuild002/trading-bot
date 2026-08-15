@@ -82,3 +82,6 @@ cache/
 
 # --- OS ---
 Thumbs.db
+
+# --- Claude Code local session state ---
+.claude/
